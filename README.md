@@ -1,2 +1,3 @@
-# AdventOfCode2021
-Trend Micro winter programming competition
+# Advent Of Code
+
+Trend Micro winter programming competition 2021
